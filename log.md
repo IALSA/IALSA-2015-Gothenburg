@@ -1,12 +1,15 @@
 The log of communication in the project
 
-## 4 September
-Teleconference
-Present: Andrea, Scott, Graciela, Sean, Magnus, Andrey
-Resolutions: (Please edit)
-1. 
-2. 
-3. 
+## 4 September  
+
+Format: Teleconference  
+Present: Andrea, Scott, Graciela, Sean, Magnus, Andrey   
+
+#### Resolutions: 
+*(Please edit)*
+1.    
+2.    
+3.    
 
 
 
