@@ -6,7 +6,7 @@ Format: Teleconference
 Present: Andrea, Scott, Graciela, Sean, Magnus, Andrey   
 
 #### Resolutions: 
-*(Please edit)*
+*(Please edit)*   
 1.    
 2.    
 3.    
