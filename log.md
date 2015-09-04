@@ -6,7 +6,7 @@ Format: Teleconference
 Present: Andrea, Scott, Graciela, Sean, Magnus, Andrey   
 
 #### Resolutions: 
-*(Please edit)*   
+*([Please edit](https://github.com/IALSA/IALSA-2015-Gothenburg/edit/master/log.md)*   
 1.    
 2.    
 3.    
